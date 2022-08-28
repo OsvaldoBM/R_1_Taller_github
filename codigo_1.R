@@ -15,3 +15,5 @@ names(mtcars)
 
 summary(mtcars)
 plot(df$hp,main = "Gráfico")
+
+## Modificación##
